@@ -38,6 +38,10 @@
 4. 어드민 서비스 데모 사이트 2종
     + NCP 기반 데모사이트 1식
     + 온프레미스 환경 데모사이트 1식
+## 산출물 샘플
+![1-1.jpg](https://github.com/ekyuho/magicecole/blob/main/images/1-1.jpg?raw=true
+![1-2.png](https://github.com/ekyuho/magicecole/blob/main/images/1-2.png?raw=true
+![1-3.png](https://github.com/ekyuho/magicecole/blob/main/images/1-3.png?raw=true
 ## 평가절차
 1. 게시판 서비스 미션 부여 -프로젝트 진행 16시간 후에 과제 종료
 2. 설계/프론트앤드/백앤드/데 모사이트 구축 단계마다 모 범 답안 제시
@@ -80,6 +84,10 @@
 4. 데모용 클라우드 기반 시스템 구축
     + 서버리스 기반 시스템 구축 및 제출
     + 관리형 RDB 형태 서비스로 구축
+## 산출물 샘플
+![2-1.jpg](https://github.com/ekyuho/magicecole/blob/main/images/2-1.jpg?raw=true
+![2-2.jpg](https://github.com/ekyuho/magicecole/blob/main/images/2-2.jpg?raw=true
+![2-3.png](https://github.com/ekyuho/magicecole/blob/main/images/2-3.png?raw=true
 ## 평가절차
 1. 병원찾기 서비스 미션 부여 -프로젝트 진행 20시간 후에 과제 종료
 2. 설계/프론트앤드/백앤드/데 모사이트 구축 단계마다 모 범 답안 제시
@@ -131,6 +139,9 @@ PT 이용권 관리 서비스
     + 통계 조회 API 및 대시보드 구현
 5. 데모용 클라우드 기반 시스템 구축
     + 서버리스 등 NCP 기반 기능 구현
+## 산출물 샘플
+![3-1.jpg](https://github.com/ekyuho/magicecole/blob/main/images/3-1.jpg?raw=true
+![3-2.jpg](https://github.com/ekyuho/magicecole/blob/main/images/3-2.jpg?raw=true
 ## 평가절차
 1. PT 이용권 관리 미션 부여
 2. 프로젝트 진행 20시간 후에 과제 종료
@@ -168,6 +179,10 @@ DevOps 프로젝트
 4. 온프레미스 환경과 NPC 환경에서 상호 호환 가능한 IaC 작성 및 제출
 5. NCP를 활용해 클라우드 IaaS 환경을 구 축해 프로젝트 결과물 생성
 6. Virtual Box 기반의 로컬 IaC 프로젝트 결과물을 팀별 생성해 제출
+## 산출물 샘플
+![4-1.png](https://github.com/ekyuho/magicecole/blob/main/images/4-1.png?raw=true
+![4-2.jpg](https://github.com/ekyuho/magicecole/blob/main/images/4-2.jpg?raw=true
+![4-3.jpg](https://github.com/ekyuho/magicecole/blob/main/images/4-3.jpg?raw=true
 ## 평가절차
 1. 제공되는 IaC 템플릿 설명 및 미션 부여
 2. 프로젝트는 총 40시간 진행 되며, 매일(8시간) IaC 수정 및 환경변화 관련 미션수행
@@ -207,6 +222,10 @@ DevOps 프로젝트
 5. 협업 도구(Slack, Trello, Telegram)를  CI/CD 파이프라인과 연계해 작성
 6. Github Action로 빌드 환경 구축
 7. 애플리케이션 버전 업데이트 시스템  구축 후 시나리오에 맞춘 데모 진행
+## 산출물 샘플
+![5-1.jpg](https://github.com/ekyuho/magicecole/blob/main/images/5-1.jpg?raw=true
+![5-2.jpg](https://github.com/ekyuho/magicecole/blob/main/images/5-2.jpg?raw=true
+![5-3.jpg](https://github.com/ekyuho/magicecole/blob/main/images/5-3.jpg?raw=true
 ## 평가절차
 1. 제공되는 CI/CD 템플릿 설 명 및 미션 부여
 2. 프로젝트는 총 40시간 진행 되며, 매일(8시간) CI/CD 수정 및 환경변화에 대한 미션 수행
@@ -240,6 +259,10 @@ DevOps 프로젝트
 2. 주어진 IaC를 NCP와 온프레미스 환경에  각각 구현한 후 해당 K8S를 관리할 수  있는 모니터링 환경 구축 후 제출
 3. 주어진 IaC 템플릿의 성능 부하에 맞춘  K8S 기반 데모 환경 구축 후 미션에 주어진 성능테스트를 만족할 수 있도록  도커 및 쿠버네티스 환경을 튜닝
 4. K8S 기반 성능테스트 및 모니터링 환경  구축하에 작동하는 간단한 데모 웹사이트를 구축 후 제출
+## 산출물 샘플
+![6-1.jpg](https://github.com/ekyuho/magicecole/blob/main/images/6-1.jpg?raw=true
+![6-2.jpg](https://github.com/ekyuho/magicecole/blob/main/images/6-2.jpg?raw=true
+![6-3.png](https://github.com/ekyuho/magicecole/blob/main/images/6-3.png?raw=true
 ## 평가절차
 1. 제공되는 성능테스트 및 모니터링 템플릿 설명 및 미션 부여
 2. 프로젝트는 총 40시간 진행되며, 매일(8시간) 성능 및 모니터링 관련 미션 수행
@@ -297,6 +320,9 @@ MSA 기반 구글 캘린더 클론 프로젝트
     + 성능테스트 및 모니터링 관련 산출물
 8. 데모용 NCP 및 Virtual Box 용 사이트
 9. 스크럼 단위 요구 산출물
+## 산출물 샘플
+![7-1.jpg](https://github.com/ekyuho/magicecole/blob/main/images/7-1.jpg?raw=true
+![7-2.png](https://github.com/ekyuho/magicecole/blob/main/images/7-2.png?raw=true
 ## 평가절차
 1. 5개 스크럼 단위로 진행
 2. 스크럼1) 사용자 요구분석
@@ -355,6 +381,9 @@ MSA 기반 블록체인 NFT 거래 서비스 개발 프로젝트
     + 성능테스트 및 모니터링 관련 산출물
 8. 데모용 NCP 및 Virtual Box 용 사이트
 9. 스크럼 단위 요구 산출물
+## 산출물 샘플
+![8-1.jpg](https://github.com/ekyuho/magicecole/blob/main/images/8-1.jpg?raw=true
+![8-2.jpg](https://github.com/ekyuho/magicecole/blob/main/images/8-2.jpg?raw=true
 ## 평가절차
 1. 5개 스크럼 단위로 진행
 2. 스크럼1) 사용자 요구분석  .주어진 템플릿에 대한  요구사항 분석서 작성
@@ -412,6 +441,10 @@ MSA 기반 대용량 트래픽을 고려한 이커머스 프로젝트
     + 성능테스트 및 모니터링 관련 산출물
 8. 데모용 NCP 및 Virtual Box 용 사이트
 9. 스크럼 단위 요구 산출물
+## 산출물 샘플
+![9-1.jpg](https://github.com/ekyuho/magicecole/blob/main/images/9-1.jpg?raw=true
+![9-2.png](https://github.com/ekyuho/magicecole/blob/main/images/9-2.png?raw=true
+![9-3.jpg](https://github.com/ekyuho/magicecole/blob/main/images/9-3.jpg?raw=true
 ## 평가절차
 1. 5개 스크럼 단위로 진행
 2. 스크럼1) 사용자 요구분석  .주어진 템플릿에 대한  요구사항 분석서 작성
