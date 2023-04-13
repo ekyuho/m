@@ -21,8 +21,8 @@
 2. Docker 이미지 구동되는 클라우드 VM
 3. 산출물) 환경 구성 설계서, 운영 매뉴얼
 ## 산출물 샘플
-![1-1.png](https://github.com/ekyuho/magicecole/blob/main/images/1-1.png?raw=true)
-![1-2.png](https://github.com/ekyuho/magicecole/blob/main/images/1-2.png?raw=true)
+![1-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/1-1.png?raw=true)
+![1-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/1-2.png?raw=true)
 ## 완성절차
 1. 프로젝트 진행 15시간 후에 과제 종료
 2. 모범답안 제시
@@ -53,8 +53,8 @@
 2. 리눅스 VM 에 특정 트래픽 발생시키면 Auto Scaling이 작동하는 테스트 환경
 3. 산출물) 환경 구성 설계서, 운영 매뉴얼
 ## 산출물 샘플
-![2-1.png](https://github.com/ekyuho/magicecole/blob/main/images/2-1.png?raw=true)
-![2-2.png](https://github.com/ekyuho/magicecole/blob/main/images/2-2.png?raw=true)
+![2-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/2-1.png?raw=true)
+![2-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/2-2.png?raw=true)
 ## 완성절차
 1. 프로젝트 진행 15시간 후에 과제 종료
 2. 모범답안 제시
@@ -84,8 +84,8 @@ VS Code를 활용한 페어코딩 실습 환경 구축 프로젝트
 2. 페어코딩 실습 테스트 환경
 3. 산출물) 환경 구성 설계서, 운영 매뉴얼
 ## 산출물 샘플
-![3-1.png](https://github.com/ekyuho/magicecole/blob/main/images/3-1.png?raw=true)
-![3-2.png](https://github.com/ekyuho/magicecole/blob/main/images/3-2.png?raw=true)
+![3-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/3-1.png?raw=true)
+![3-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/3-2.png?raw=true)
 ## 완성절차
 1. 프로젝트 진행 15시간 후에 과제 종료
 2. 모범답안 제시
@@ -121,8 +121,8 @@ VS Code를 활용한 페어코딩 실습 환경 구축 프로젝트
 5. NFT 연계 경매 이력 관리 기능 구현
 6. 산출물) 설계서, 소스 코드, 운영 매뉴얼
 ## 산출물 샘플
-![4-1.png](https://github.com/ekyuho/magicecole/blob/main/images/4-1.png?raw=true)
-![4-2.png](https://github.com/ekyuho/magicecole/blob/main/images/4-2.png?raw=true)
+![4-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/4-1.png?raw=true)
+![4-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/4-2.png?raw=true)
 ## 완성절차
 1. 3개 스크럼 단위로 진행
 2. 스크럼1) 프로젝트 기초 설계
@@ -160,8 +160,8 @@ SNS 알림 시스템 구축 프로젝트
 5. 로그 기록 시스템
 6. 산출물) 설계서, 소스 코드, 운영 매뉴얼
 ## 산출물 샘플
-![5-1.png](https://github.com/ekyuho/magicecole/blob/main/images/5-1.png?raw=true)
-![5-2.png](https://github.com/ekyuho/magicecole/blob/main/images/5-2.png?raw=true)
+![5-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/5-1.png?raw=true)
+![5-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/5-2.png?raw=true)
 ## 완성절차
 1. 3개 스크럼 단위로 진행
 2. 스크럼1) 프로젝트 기초 설계
@@ -200,8 +200,8 @@ URL 단축기 설계 시스템 개발
 6. 로그 기록 시스템
 7. 산출물) 설계서, 소스 코드, 운영 매뉴얼
 ## 산출물 샘플
-![6-1.png](https://github.com/ekyuho/magicecole/blob/main/images/6-1.png?raw=true)
-![6-2.png](https://github.com/ekyuho/magicecole/blob/main/images/6-2.png?raw=true)
+![6-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/6-1.png?raw=true)
+![6-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/6-2.png?raw=true)
 ## 완성절차
 1. 3개 스크럼 단위로 진행
 2. 스크럼1) 프로젝트 기초 설계
@@ -246,9 +246,9 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 8. Auto Scaling 시스템
 9. 산출물) 설계서, 소스 코드, 운영 매뉴얼
 ## 산출물 샘플
-![7-1.png](https://github.com/ekyuho/magicecole/blob/main/images/7-1.png?raw=true)
-![7-2.png](https://github.com/ekyuho/magicecole/blob/main/images/7-2.png?raw=true)
-![7-3.png](https://github.com/ekyuho/magicecole/blob/main/images/7-3.png?raw=true)
+![7-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/7-1.png?raw=true)
+![7-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/7-2.png?raw=true)
+![7-3.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/7-3.png?raw=true)
 ## 완성절차
 1. 5개 스크럼 단위로 진행
 2. 각 스크럼은 40시간 단위
@@ -292,8 +292,8 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 6. 로그 기록 시스템
 7. 산출물) 설계서, 소스 코드, 운영 매뉴얼
 ## 산출물 샘플
-![8-1.png](https://github.com/ekyuho/magicecole/blob/main/images/8-1.png?raw=true)
-![8-2.png](https://github.com/ekyuho/magicecole/blob/main/images/8-2.png?raw=true)
+![8-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/8-1.png?raw=true)
+![8-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/8-2.png?raw=true)
 ## 완성절차
 1. 5개 스크럼 단위로 진행
 2. 각 스크럼은 40시간 단위
@@ -338,8 +338,8 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 7. 로그 기록 시스템
 8. 산출물) 설계서, 소스 코드, 운영 매뉴얼
 ## 산출물 샘플
-![9-1.png](https://github.com/ekyuho/magicecole/blob/main/images/9-1.png?raw=true)
-![9-2.png](https://github.com/ekyuho/magicecole/blob/main/images/9-2.png?raw=true)
+![9-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/9-1.png?raw=true)
+![9-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/9-2.png?raw=true)
 ## 완성절차
 1. 5개 스크럼 단위로 진행
 2. 각 스크럼은 40시간 단위
@@ -384,8 +384,8 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 8. 로그 기록 시스템
 9. 산출물) 설계서, 소스 코드, 운영 매뉴얼
 ## 산출물 샘플
-![10-1.png](https://github.com/ekyuho/magicecole/blob/main/images/10-1.png?raw=true)
-![10-2.png](https://github.com/ekyuho/magicecole/blob/main/images/10-2.png?raw=true)
+![10-1.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/10-1.png?raw=true)
+![10-2.png](https://github.com/ekyuho/magicecole/blob/main/images.ai/10-2.png?raw=true)
 ## 완성절차
 1. 5개 스크럼 단위로 진행
 2. 각 스크럼은 40시간 단위
