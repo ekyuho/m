@@ -23,8 +23,6 @@
 ## 산출물 샘플
 ![1-1.png](https://github.com/ekyuho/magicecole/blob/main/images/1-1.png?raw=true)
 ![1-2.png](https://github.com/ekyuho/magicecole/blob/main/images/1-2.png?raw=true)
-![10-1.png](https://github.com/ekyuho/magicecole/blob/main/images/10-1.png?raw=true)
-![10-2.png](https://github.com/ekyuho/magicecole/blob/main/images/10-2.png?raw=true)
 ## 완성절차
 1. 프로젝트 진행 15시간 후에 과제 종료
 2. 모범답안 제시
