@@ -18,9 +18,6 @@
 1. Dev Ops 환경 설정이 구축된 Docker 이미지
 2. Docker 이미지 구동되는 클라우드 VM
 3. 산출물) 환경 구성 설계서, 운영 매뉴얼
-## 산출물 샘플
-![a1-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a1-1.png?raw=true)
-![a1-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a1-2.png?raw=true)
 ## 완성절차:
 1. 프로젝트 진행 15시간 후에 과제 종료
 2. 모범답안 제시
@@ -30,8 +27,12 @@
 2. 클라우드 IaaS를 활용해 개발환경을 구성할 수 있는 능력 요구
 3. Docker 시스템을 이해하고, 회사 내 다양한 개발환경을 운영할 수 있는 능력 요구
 ## 결과물 예시:
+## 결과물 예시
+![a1-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a1-1.png?raw=true)
+![a1-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a1-2.png?raw=true)
 # 프로젝트코드: a2
 |구분|클라우드 인프라 구축 프로젝트|
+|-|-|
 |제목|리눅스 OS 기반 Auto Scaling 시스템 구축 프로젝트|
 |시간|50|
 ## 활용자료:
@@ -48,9 +49,6 @@
 1. Auto Scaling 설정 구성된 리눅스 VM
 2. 리눅스 VM 에 특정 트래픽 발생시키면 Auto Scaling이 작동하는 테스트 환경
 3. 산출물) 환경 구성 설계서, 운영 매뉴얼
-## 산출물 샘플
-![a2-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a2-1.png?raw=true)
-![a2-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a2-2.png?raw=true)
 ## 완성절차:
 1. 프로젝트 진행 15시간 후에 과제 종료
 2. 모범답안 제시
@@ -60,8 +58,12 @@
 2. 과부하 등의 서비스 장애 대응을 위한 사전 시나리오 파악과 실무경험 요구
 3. Auto Scaling 시스템 구축을 통해 클라우드 시스템의 장점과 운영 및 장애 대응 경험
 ## 결과물 예시:
+## 결과물 예시
+![a2-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a2-1.png?raw=true)
+![a2-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a2-2.png?raw=true)
 # 프로젝트코드: a3
 |구분|클라우드 인프라 구축 프로젝트|
+|-|-|
 |제목|VS Code를 활용한 페어코딩 실습 환경 구축 프로젝트 |
 |시간|50|
 ## 활용자료:
@@ -77,9 +79,6 @@
 1. VS Code 서버 탑재한 VM
 2. 페어코딩 실습 테스트 환경
 3. 산출물) 환경 구성 설계서, 운영 매뉴얼
-## 산출물 샘플
-![a3-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a3-1.png?raw=true)
-![a3-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a3-2.png?raw=true)
 ## 완성절차:
 1. 프로젝트 진행 15시간 후에 과제 종료
 2. 모범답안 제시
@@ -89,8 +88,12 @@
 2. VS Code 서버를 셋팅해 원격지에 있는 동료 또는 파트너와 실시간 코드 개발할 수 있는 개발 환경과 효율적인 운영 방안(VM Spec 및 네트워크 보안 설정 등)
 3. CI/CD를 적용해 기업 현장에서 요구하는 실습환경 구축 경험을 진행
 ## 결과물 예시:
+## 결과물 예시
+![a3-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a3-1.png?raw=true)
+![a3-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a3-2.png?raw=true)
 # 프로젝트코드: a4
 |구분|클라우드 기반 웹/모바일 프로젝트|
+|-|-|
 |제목|미술품 경매 사이트 개발|
 |시간|120|
 ## 활용자료:
@@ -112,9 +115,6 @@
 4. 미술품 경매 데모 사이트
 5. NFT 연계 경매 이력 관리 기능 구현
 6. 산출물) 설계서, 소스 코드, 운영 매뉴얼
-## 산출물 샘플
-![a4-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a4-1.png?raw=true)
-![a4-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a4-2.png?raw=true)
 ## 완성절차:
 1. 3개 스크럼 단위로 진행
 2. 스크럼1) 프로젝트 기초 설계
@@ -127,8 +127,12 @@
 2. 클라우드 환경에서 웹과 모바일 기술을 활용해 오토스케일링 적용에 대한 요구 커짐
 3. 미술품 경매 이력에 대해 시스템 로그를 만기고, NFT 등의 기술을 접목할 수 있는 융합형 인재에 대한 수요가 커지고 있음
 ## 결과물 예시:
+## 결과물 예시
+![a4-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a4-1.png?raw=true)
+![a4-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a4-2.png?raw=true)
 # 프로젝트코드: a5
 |구분|클라우드 기반 웹/모바일 프로젝트|
+|-|-|
 |제목|SNS 알림 시스템 구축 프로젝트|
 |시간|120|
 ## 활용자료:
@@ -149,9 +153,6 @@
 4. 장애 대응 시스템
 5. 로그 기록 시스템
 6. 산출물) 설계서, 소스 코드, 운영 매뉴얼
-## 산출물 샘플
-![a5-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a5-1.png?raw=true)
-![a5-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a5-2.png?raw=true)
 ## 완성절차:
 1. 3개 스크럼 단위로 진행
 2. 스크럼1) 프로젝트 기초 설계
@@ -164,8 +165,12 @@
 2. 범용 알림 시스템의 원리를 파악하고, 직접 구축해보며 장애 대응 등의 실무경험을 요구
 3. 클라우드 기반 아키텍처 구현과 설계 능력과 애자일한 개발 프로세스를 이해한 개발자에 대한 시장 요구가 큼
 ## 결과물 예시:
+## 결과물 예시
+![a5-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a5-1.png?raw=true)
+![a5-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a5-2.png?raw=true)
 # 프로젝트코드: a6
 |구분|클라우드 기반 웹/모바일 프로젝트|
+|-|-|
 |제목|URL 단축기 설계 시스템 개발|
 |시간|120|
 ## 활용자료:
@@ -187,9 +192,6 @@
 5. 장애 대응 시스템
 6. 로그 기록 시스템
 7. 산출물) 설계서, 소스 코드, 운영 매뉴얼
-## 산출물 샘플
-![a6-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a6-1.png?raw=true)
-![a6-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a6-2.png?raw=true)
 ## 완성절차:
 1. 3개 스크럼 단위로 진행
 2. 스크럼1) 프로젝트 기초 설계
@@ -201,8 +203,12 @@
 1. Short URL 서비스를 기획하고, 실제 구현 알고리즘을 찾아 데이터베이스 설계와 REST API 구현까지 진행하며, 기업 프로젝트의 A to Z를 경험해본 인재를 선호
 2. 클라우드 환경에서 웹과 모바일 서비스를 이해하고, 이를 바탕으로 실용적인 단축 URL 설계와 시스템 구축을 진행하며, 장애 및 예상되는 서비스 운영 문제에 대한 대안을 제시하는 인재를 선호
 ## 결과물 예시:
+## 결과물 예시
+![a6-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a6-1.png?raw=true)
+![a6-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a6-2.png?raw=true)
 # 프로젝트코드: a7
 |구분|클라우드 기반 AI 융복합 프로젝트|
+|-|-|
 |제목|동시통역 프로그램 개발|
 |시간|200|
 ## 활용자료:
@@ -231,10 +237,6 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 7. 로그 기록 시스템
 8. Auto Scaling 시스템
 9. 산출물) 설계서, 소스 코드, 운영 매뉴얼
-## 산출물 샘플
-![a7-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a7-1.png?raw=true)
-![a7-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a7-2.png?raw=true)
-![a7-3.png](https://github.com/ekyuho/magicecole/blob/main/images/a7-3.png?raw=true)
 ## 완성절차:
 1. 5개 스크럼 단위로 진행
 2. 각 스크럼은 40시간 단위
@@ -248,8 +250,13 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 2. 고객의 니즈를 파악해, AIaaS 기술을 적절히 활용해 고객의 문제를 해결할 수 있는 대안 제시가 필요
 3. 기본 기능에 사용자 니즈를 반영해 확장 가능한 클라우드 아키텍처를 설계하고, 각종 장애 대응과 관리 이슈 최소화를 위한 방안 제시에 대한 훈련이 요구됨
 ## 결과물 예시:
+## 결과물 예시
+![a7-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a7-1.png?raw=true)
+![a7-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a7-2.png?raw=true)
+![a7-3.png](https://github.com/ekyuho/magicecole/blob/main/images/a7-3.png?raw=true)
 # 프로젝트코드: a8
 |구분|클라우드 기반 AI 융복합 프로젝트|
+|-|-|
 |제목|얼굴인식 출입 인증 시스템 개발|
 |시간|200|
 ## 활용자료:
@@ -275,9 +282,6 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 5. 장애 대응 시스템
 6. 로그 기록 시스템
 7. 산출물) 설계서, 소스 코드, 운영 매뉴얼
-## 산출물 샘플
-![a8-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a8-1.png?raw=true)
-![a8-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a8-2.png?raw=true)
 ## 완성절차:
 1. 5개 스크럼 단위로 진행
 2. 각 스크럼은 40시간 단위
@@ -291,8 +295,12 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 2. 단순 이미지 인식, 감정 인식, 마스크 착용 인식 등 활용 가능한 AIaaS 기술을 바탕으로 타겟 고객을 정하고, 시간과 비용안에서 발전적인 대안을 제시하고 구현할 수 있는 능력이 요구되고 있음
 3. 정의한 사업장의 특성에 맞춰 출입 근태 관리의 효율화를 높일 수 있는 클라우드 아키텍처와 이를 웹과 모바일 기술을 바탕으로 AIaaS 기술로 구현할 수 있는 능력 요구
 ## 결과물 예시:
+## 결과물 예시
+![a8-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a8-1.png?raw=true)
+![a8-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a8-2.png?raw=true)
 # 프로젝트코드: a9
 |구분|클라우드 기반 AI 융복합 프로젝트|
+|-|-|
 |제목|클라우드 ML 활용 이상 감지 시스템 구축|
 |시간|200|
 ## 활용자료:
@@ -319,9 +327,6 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 6. 장애 대응 시스템
 7. 로그 기록 시스템
 8. 산출물) 설계서, 소스 코드, 운영 매뉴얼
-## 산출물 샘플
-![a9-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a9-1.png?raw=true)
-![a9-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a9-2.png?raw=true)
 ## 완성절차:
 1. 5개 스크럼 단위로 진행
 2. 각 스크럼은 40시간 단위
@@ -334,8 +339,12 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 1. 개발된 AI 모델에 새로운 데이터를 지속적으로 반영할 수 있는 클라우드 ML 기술을 이해하고, 데이터 파이프라인 설계 및 활용할 수 있는 역량을 요구
 2. 이상 행동을 정의하고, 해당 내용을 미리 학습한 모델을 바탕으로 전이 학습 기반의 지능형 인공지능 플랫폼을 구축할 수 있는 역량을 요구
 ## 결과물 예시:
+## 결과물 예시
+![a9-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a9-1.png?raw=true)
+![a9-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a9-2.png?raw=true)
 # 프로젝트코드: a10
 |구분|클라우드 기반 AI 융복합 프로젝트|
+|-|-|
 |제목|소상공인을 위한 AI 전화 주문 시스템 구축|
 |시간|200|
 ## 활용자료:
@@ -363,9 +372,6 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 7. 장애 대응 시스템
 8. 로그 기록 시스템
 9. 산출물) 설계서, 소스 코드, 운영 매뉴얼
-## 산출물 샘플
-![a10-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a10-1.png?raw=true)
-![a10-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a10-2.png?raw=true)
 ## 완성절차:
 1. 5개 스크럼 단위로 진행
 2. 각 스크럼은 40시간 단위
@@ -379,3 +385,6 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 2. 실제, 소상공인을 대상으로 전화 주문 시스템 구축에 수요가 폭발적으로 커지고 있음
 3. 고객의 문제를 파악하고, 정해진 시간과 비용 내에서 대안을 제시할 수 있는 실무형 인재를 네이버클라우드 파트너 기업에서 요구함
 ## 결과물 예시:
+## 결과물 예시
+![a10-1.png](https://github.com/ekyuho/magicecole/blob/main/images/a10-1.png?raw=true)
+![a10-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a10-2.png?raw=true)
