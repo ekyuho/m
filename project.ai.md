@@ -1,7 +1,7 @@
 # 프로젝트코드: a1
 |항목|내용|
-|구분|클라우드 인프라 구축 프로젝트|
 |-|-|
+|구분|클라우드 인프라 구축 프로젝트|
 |제목|웹 개발을 위한 Dev Ops Docker 개발 환경 구성|
 |시간|50|
 ## 활용자료:
@@ -33,8 +33,8 @@
 ![a1-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a1-2.png?raw=true)
 # 프로젝트코드: a2
 |항목|내용|
-|구분|클라우드 인프라 구축 프로젝트|
 |-|-|
+|구분|클라우드 인프라 구축 프로젝트|
 |제목|리눅스 OS 기반 Auto Scaling 시스템 구축 프로젝트|
 |시간|50|
 ## 활용자료:
@@ -65,8 +65,8 @@
 ![a2-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a2-2.png?raw=true)
 # 프로젝트코드: a3
 |항목|내용|
-|구분|클라우드 인프라 구축 프로젝트|
 |-|-|
+|구분|클라우드 인프라 구축 프로젝트|
 |제목|VS Code를 활용한 페어코딩 실습 환경 구축 프로젝트 |
 |시간|50|
 ## 활용자료:
@@ -96,8 +96,8 @@
 ![a3-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a3-2.png?raw=true)
 # 프로젝트코드: a4
 |항목|내용|
-|구분|클라우드 기반 웹/모바일 프로젝트|
 |-|-|
+|구분|클라우드 기반 웹/모바일 프로젝트|
 |제목|미술품 경매 사이트 개발|
 |시간|120|
 ## 활용자료:
@@ -136,8 +136,8 @@
 ![a4-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a4-2.png?raw=true)
 # 프로젝트코드: a5
 |항목|내용|
-|구분|클라우드 기반 웹/모바일 프로젝트|
 |-|-|
+|구분|클라우드 기반 웹/모바일 프로젝트|
 |제목|SNS 알림 시스템 구축 프로젝트|
 |시간|120|
 ## 활용자료:
@@ -175,8 +175,8 @@
 ![a5-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a5-2.png?raw=true)
 # 프로젝트코드: a6
 |항목|내용|
-|구분|클라우드 기반 웹/모바일 프로젝트|
 |-|-|
+|구분|클라우드 기반 웹/모바일 프로젝트|
 |제목|URL 단축기 설계 시스템 개발|
 |시간|120|
 ## 활용자료:
@@ -214,8 +214,8 @@
 ![a6-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a6-2.png?raw=true)
 # 프로젝트코드: a7
 |항목|내용|
-|구분|클라우드 기반 AI 융복합 프로젝트|
 |-|-|
+|구분|클라우드 기반 AI 융복합 프로젝트|
 |제목|동시통역 프로그램 개발|
 |시간|200|
 ## 활용자료:
@@ -263,8 +263,8 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 ![a7-3.png](https://github.com/ekyuho/magicecole/blob/main/images/a7-3.png?raw=true)
 # 프로젝트코드: a8
 |항목|내용|
-|구분|클라우드 기반 AI 융복합 프로젝트|
 |-|-|
+|구분|클라우드 기반 AI 융복합 프로젝트|
 |제목|얼굴인식 출입 인증 시스템 개발|
 |시간|200|
 ## 활용자료:
@@ -308,8 +308,8 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 ![a8-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a8-2.png?raw=true)
 # 프로젝트코드: a9
 |항목|내용|
-|구분|클라우드 기반 AI 융복합 프로젝트|
 |-|-|
+|구분|클라우드 기반 AI 융복합 프로젝트|
 |제목|클라우드 ML 활용 이상 감지 시스템 구축|
 |시간|200|
 ## 활용자료:
@@ -353,8 +353,8 @@ AI 관련 유사 프로젝트 구축 활용 자료(PBT 시스템 제공)
 ![a9-2.png](https://github.com/ekyuho/magicecole/blob/main/images/a9-2.png?raw=true)
 # 프로젝트코드: a10
 |항목|내용|
-|구분|클라우드 기반 AI 융복합 프로젝트|
 |-|-|
+|구분|클라우드 기반 AI 융복합 프로젝트|
 |제목|소상공인을 위한 AI 전화 주문 시스템 구축|
 |시간|200|
 ## 활용자료:
